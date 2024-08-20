@@ -1,0 +1,4 @@
+import calendar
+yr=2005
+mn=2
+print(calendar.month(yr,mn))
